@@ -15,7 +15,7 @@ Le cursus présenté ici est basé sur la [Developer Roadmap 2020](https://githu
 
 Pour commencer, nous allons déjà nous attaquer au mythe du "développeur fullstack" qui, au regard des compétences requises pour chaque métier que sont le développeur frontend, le développeur backend, ainsi que le devops nous paraît extrêmement difficile à atteindre pour le commun des mortels.
 
-Par conséquent, nous allons proposer dans un premier temps, deux parcours bien distincts frontend et backend.
+Par conséquent, nous allons proposer dans un premier temps, deux parcours bien distincts [frontend](/frontend) et [backend](/backend).
 
 Étant donné que ce projet est entièrement open source, toute participation de quelque nature que ce soit est la bienvenue.
 Il n'est pas nécessaire d'être particulièrement compétent pour participer à ce projet, nous avons besoin de toute l'aide disponible, que ce soit de la relecture, correction, partage de ressources, d'idées etc …
