@@ -21,3 +21,8 @@ Par conséquent, nous allons proposer dans un premier temps, deux parcours bien 
 Il n'est pas nécessaire d'être particulièrement compétent pour participer à ce projet, nous avons besoin de toute l'aide disponible, que ce soit de la relecture, correction, partage de ressources, d'idées etc …
 
 Ne pas hésiter à proposer vos idées dans [la boîte à idées](boite-a-idees.md).
+
+## Nous rejoindre
+
+* [Discord](https://discord.gg/R7kPn7j)
+* [Twitter](https://twitter.com/OpenCampDotDev)
