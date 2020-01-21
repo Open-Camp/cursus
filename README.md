@@ -1,5 +1,7 @@
 # Cursus OpenCamp
 
+![Bannière OpenCamp](img/open-camp-banniere.jpg)
+
 L'OpenCamp est un projet de formation open source, avec une philosophie un peu différente d'un parcours classique.
 Ici nous n'allons pas raisonner en terme de temps de formation alloué, en terme de passage de titre professionnel, ou tout autre diplôme à l'issue.
 
