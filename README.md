@@ -20,3 +20,4 @@ Par conséquent, nous allons proposer dans un premier temps, deux parcours bien 
 Étant donné que ce projet est entièrement open source, toute participation de quelque nature que ce soit est la bienvenue.
 Il n'est pas nécessaire d'être particulièrement compétent pour participer à ce projet, nous avons besoin de toute l'aide disponible, que ce soit de la relecture, correction, partage de ressources, d'idées etc …
 
+Ne pas hésiter à proposer vos idées dans [la boîte à idées](boite-a-idee.md).
