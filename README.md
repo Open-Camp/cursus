@@ -17,7 +17,7 @@ Pour commencer, nous allons déjà nous attaquer au mythe du "développeur fulls
 
 Par conséquent, nous allons proposer dans un premier temps, deux parcours bien distincts [frontend](/frontend) et [backend](/backend).
 
-Étant donné que ce projet est entièrement open source, toute participation de quelque nature que ce soit est la bienvenue.
+Étant donné que ce projet est entièrement open source, toutes les participations de quelque nature que ce soit sont plus que les bienvenues.
 Il n'est pas nécessaire d'être particulièrement compétent pour participer à ce projet, nous avons besoin de toute l'aide disponible, que ce soit de la relecture, correction, partage de ressources, d'idées etc …
 
 Ne pas hésiter à proposer vos idées dans [la boîte à idées](boite-a-idees.md).
