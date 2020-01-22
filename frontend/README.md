@@ -1,6 +1,6 @@
 # Cursus Frontend
 
-* Module 0 : [Outils](/outils)
+* Module 0 : [Outils](outils)
 * Module 1 : Markdown
 * Module 2 : Terminal débutant
 * Module 3 : Git
