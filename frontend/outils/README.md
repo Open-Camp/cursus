@@ -1,5 +1,5 @@
 # Les outils
 
-* Le Navigateur
+* [Le Navigateur](navigateur.md)
 * L'éditeur de code
 * Traduction
