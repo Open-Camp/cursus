@@ -1,1 +1,1 @@
-# L'éditeur de code
+# Module 0.2 L'éditeur de code
