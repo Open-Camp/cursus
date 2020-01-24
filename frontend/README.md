@@ -11,11 +11,11 @@
 * Module 8 : [CSS](css)
 * Module 9 : [CSS Preprocessor](css/preprocessor)
 * Module 10 : [CSS Architecture](css/architecture)
-* Module 11 : JavaScript Débutant
-* Module 12 : JavaScript Itermédiaire
+* Module 11 : [JavaScript Débutant](javascript/debutant)
+* Module 12 : [JavaScript Itermédiaire](javascript/intermediaire)
 * Module 13 : Package Managers
 * Module 14 : Build Tools
-* Module 15 : JavaScript Avancé
+* Module 15 : [JavaScript Avancé](javascript/avance)
 * Module 16 : DOM
 * Module 17 : API
 * Module 18 : Frameworks JavaScript
