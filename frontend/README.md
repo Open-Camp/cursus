@@ -6,7 +6,7 @@
 * Module 3 : [Git](git)
 * Module 4 : [SSH](git)
 * Module 5 : [Github](github)
-* Module 6 : Internet
+* Module 6 : [Internet](internet)
 * Module 7 : HTML
 * Module 8 : CSS
 * Module 9 : CSS Preprocessor
