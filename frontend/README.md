@@ -23,5 +23,5 @@
 * Module 20 : [Testing](testing)
 * Module 21 : [SSR](javascript/frameworks-javascript/ssr)
 * Module 22 : [Typescript](javascript/typescript)
-* Module 23 : Progressive Web Apps
+* Module 23 : [Progressive Web Apps](pwa)
 
