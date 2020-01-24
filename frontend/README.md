@@ -14,7 +14,7 @@
 * Module 11 : [JavaScript Débutant](javascript/debutant)
 * Module 12 : [JavaScript Itermédiaire](javascript/intermediaire)
 * Module 13 : [Package Managers](package-managers)
-* Module 14 : Build Tools
+* Module 14 : [Build Tools](build-tools)
 * Module 15 : [JavaScript Avancé](javascript/avance)
 * Module 16 : DOM
 * Module 17 : API
