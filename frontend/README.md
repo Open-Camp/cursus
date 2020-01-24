@@ -22,6 +22,6 @@
 * Module 19 : [Frameworks CSS](css/frameworks-css)
 * Module 20 : [Testing](testing)
 * Module 21 : [SSR](javascript/frameworks-javascript/ssr)
-* Module 22 : Typescript
+* Module 22 : [Typescript](javascript/typescript)
 * Module 23 : Progressive Web Apps
 
