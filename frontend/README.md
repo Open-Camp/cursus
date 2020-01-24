@@ -8,7 +8,7 @@
 * Module 5 : [Github](github)
 * Module 6 : [Internet](internet)
 * Module 7 : [HTML](html)
-* Module 8 : CSS
+* Module 8 : [CSS](css)
 * Module 9 : CSS Preprocessor
 * Module 10 : CSS Architecture
 * Module 11 : JavaScript Débutant
