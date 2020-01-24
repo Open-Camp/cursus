@@ -9,8 +9,8 @@
 * Module 6 : [Internet](internet)
 * Module 7 : [HTML](html)
 * Module 8 : [CSS](css)
-* Module 9 : CSS Preprocessor
-* Module 10 : CSS Architecture
+* Module 9 : [CSS Preprocessor](css/preprocessor)
+* Module 10 : [CSS Architecture](css/architecture)
 * Module 11 : JavaScript Débutant
 * Module 12 : JavaScript Itermédiaire
 * Module 13 : Package Managers
