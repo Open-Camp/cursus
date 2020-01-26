@@ -1,4 +1,4 @@
-# Cursus OpenCamp
+# Cursus Développeur Web OpenCamp
 
 ![Bannière OpenCamp](img/open-camp-banniere.jpg)
 
