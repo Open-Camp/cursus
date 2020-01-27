@@ -10,5 +10,5 @@
 * Module 6 : [Internet](../introduction/internet)
 * Module 7 : [OS](os)
 * Module 8 : [Apprendre un langage](../general/langages)
-* Module 9 : [SQL](sql)
-* Module 10 : [NOSQL](nosql)
+* Module 9 : [SQL](database/sql)
+* Module 10 : [NOSQL](database/nosql)
