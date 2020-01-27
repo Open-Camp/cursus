@@ -3,4 +3,4 @@
 * [Licences](licences)
 * [Design Patterns](design-patterns)
 * [Data Structures & Algorithms](dsa)
-* [Langages](Langages)
+* [Langages](langages)
