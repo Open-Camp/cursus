@@ -4,3 +4,4 @@
 * [Design Patterns](design-patterns)
 * [Data Structures & Algorithms](dsa)
 * [Langages](langages)
+* [Regular Expressions](regex)
