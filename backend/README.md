@@ -8,3 +8,5 @@
 * Module 4 : [SSH](../introduction/ssh)
 * Module 5 : [Github](../introduction/github)
 * Module 6 : [Internet](../introduction/internet)
+* Module 7 : [OS](os)
+* Module 8 : [Apprendre un langage](../general/langages)
