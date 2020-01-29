@@ -17,7 +17,7 @@
 * Module 14 : [Build Tools](build-tools)
 * Module 15 : [JavaScript Avancé](../general/langages/javascript/avance)
 * Module 16 : [DOM](dom)
-* Module 17 : [API](api)
+* Module 17 : [API](../general/api)
 * Module 18 : [Frameworks JavaScript](javascript/frameworks-javascript)
 * Module 19 : [Frameworks CSS](css/frameworks-css)
 * Module 20 : [Testing](testing)
