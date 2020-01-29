@@ -20,7 +20,7 @@
 * Module 17 : [API](../general/api)
 * Module 18 : [Frameworks JavaScript](javascript/frameworks-javascript)
 * Module 19 : [Frameworks CSS](css/frameworks-css)
-* Module 20 : [Testing](testing)
+* Module 20 : [Testing](../general/testing)
 * Module 21 : [SSR](javascript/frameworks-javascript/ssr)
 * Module 22 : [Typescript](../general/langages/javascript/typescript)
 * Module 23 : [Progressive Web Apps](pwa)

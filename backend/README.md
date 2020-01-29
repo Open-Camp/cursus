@@ -16,6 +16,8 @@
 * Module 12 : [Serveur Web](serveurs-web)
 * Module 13 : [Caching](../general/caching)
 * Module 14 : [Sécurité Web](../general/securite-web)
+* Module 15 : [Testing](../general/testing)
+* Module 16 : [CI/CD](ci-cd)
 * Module 15 : [Principes de développement](principes-developpement)
 * Module 16 : [Patterns architecturaux](patterns-architecturaux)
 * Module 17 : [Moteurs de recherches](recherches)
