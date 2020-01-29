@@ -17,4 +17,5 @@
 * Module 13 : [Sécurité Web](../general/securite-web)
 * Module 14 : [Principes de développement](principes-developpement)
 * Module 15 : [Patterns architecturaux](patterns-architecturaux)
+* Module 16 : [Moteurs de recherches](recherches)
 
