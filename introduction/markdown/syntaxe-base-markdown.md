@@ -1,1 +1,1 @@
-# Syntaxe de base Markdown
+# 1.2 Syntaxe de base Markdown
