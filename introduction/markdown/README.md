@@ -1,25 +1,6 @@
 # Markdown
 
-## Qu'est-ce que Markdown ?
-
-
-## Pourquoi utiliser Markdown ?
-
-
-## Se lancer avec Markdown
-
-
-## Comment Markdown fonctionne ?
-
-
-## Markdown pour quel cas d'usage ?
-
-
-## Saveurs de Markdown 
-
-
-## Ressources additionnelles
-
-
-
-Sources : [Markdown Guide](https://www.markdownguide.org/getting-started/)
+* [1.1 Débuter avec Markdown](debuter-markdown.md)
+* [1.2 Syntaxe de base Markdown](syntaxe-base-markdown.md)
+* [1.3 Syntaxe étendue Markdown](syntaxe-etendue-markdown.md)
+* [1.4 Outils](outils-markdown.md)
