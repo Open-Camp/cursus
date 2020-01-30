@@ -7,7 +7,9 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/OpenCampDotDev?style=social)
 ![Discord](https://img.shields.io/discord/669180384273104898)
 
-## :warning: :construction: Work in progress … :construction: :warning:
+<h2 align="center">
+  :warning: :construction: Work in progress … :construction: :warning:
+</h2>
 
 L'OpenCamp est un projet de formation Développeur Web open source, avec une philosophie un peu différente d'un parcours classique.
 Ici nous n'allons pas raisonner en terme de temps de formation alloué, en terme de passage de titre professionnel, ou tout autre diplôme à l'issue.
