@@ -1,8 +1,7 @@
-# Introduction au Markdown
+# 1.1 Introduction au Markdown
 
 
-
-## Qu'est-ce que Markdown ?
+## Qu'est-ce que Markdown ?
 
 
 ## Pourquoi utiliser Markdown ?
