@@ -1,4 +1,27 @@
-# Le terminal
+# Débuter avec le terminal
+
+## 2.1 Qu'est-ce que le Terminal ?
+
+
+## 2.2 Ouvrir un terminal
+
+
+## 2.3 Se déplacer dans le terminal
+
+
+## 2.4 Créer des fichiers et dossiers
+
+## 2.5 Manipuler des fichiers et dossiers (déplacement, suppression)
+
+
+## 2.6 Un peu de plomberie
+
+
+## 2.7 La ligne de commande et le super user
+
+
+## 2.8 Les fichiers cachés
+
 
 
 
