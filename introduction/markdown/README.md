@@ -1,6 +1,6 @@
 # Markdown
 
-## Qu'est-ce que Markdown ?
+## Qu'est-ce que Markdown ?
 
 
 ## Pourquoi utiliser Markdown ?
