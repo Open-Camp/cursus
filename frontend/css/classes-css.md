@@ -1,1 +1,1 @@
-# 8.4 Les pseudos-classes en CSS
+# 8.4 Les classes en CSS
