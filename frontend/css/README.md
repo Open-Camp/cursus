@@ -7,7 +7,7 @@
 * [8.5 Les éléments en CSS](elements-css.md)
 * [8.6 Les pseudos-éléments en CSS](pseudos-elements-css.md)
 * [8.7 Les IDs en CSS](id-css.md)
-* [8.8 Le sélécteur universel en CSS](selecteur-universel-css.md)
+* [8.8 Le sélecteur universel en CSS](selecteur-universel-css.md)
 * [8.9 Le box model en CSS](box-model-css.md)
 * [8.10 Le positionnement en CSS](positionnement-css.md)
 * [8.11 Les différentes notations des couleurs en CSS](notations-couleurs-css.md)
