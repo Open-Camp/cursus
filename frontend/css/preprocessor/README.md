@@ -1,4 +1,4 @@
-# CSS Preprocessor
+# CSS Preprocessors
 
 * [Sass](sass) (recommandé)
 * PostCSS
