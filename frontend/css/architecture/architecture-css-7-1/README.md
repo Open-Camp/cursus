@@ -1,1 +1,1 @@
-# L'architecture `7-1`
+# L'architecture CSS `7-1`
