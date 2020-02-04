@@ -9,6 +9,7 @@
 * [Quelle est la différence entre un langage compilé et un langage interprété ?](difference-langage-compile-interprete.md)
 * [Quel est le rôle du développeur ?](role-du-developpeur.md)
 * [CLI vs GUI](cli-vs-gui.md)
+* [Les types de données](types-donnees.md)
 * [Les variables](variables.md)
 * [Les opérateurs](operateurs.md)
 * [Les structures de contrôle](structures-controle.md)
