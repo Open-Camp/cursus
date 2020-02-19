@@ -27,5 +27,5 @@
 * [`JS 1.24` Garbage collection](https://javascript.info/garbage-collection)
 * [`JS 1.25` Le type symbole](https://javascript.info/symbol)
 * [`JS 1.26` Les méthodes d'objets et `this`](https://javascript.info/object-methods)
-* [`JS 1.27` La conversion d'objet en primitive](Object to primitive conversion)
+* [`JS 1.27` La conversion d'objet en primitive](https://javascript.info/object-toprimitive)
 * [`JS 1.28` Le constructeur, l'opérateur "new" en JavaScript](https://javascript.info/constructor-new)
