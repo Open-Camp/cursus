@@ -33,7 +33,7 @@
 * [`JS 3.30` Fetch : la progression du téléchargement en JavaScript](https://javascript.info/fetch-progress)
 * [`JS 3.31` Fetch : l'abandon d'une requête en JavaScript](https://javascript.info/fetch-abort)
 * [`JS 3.32` Fetch: les requêtes Cross-Origin en JavaScript](https://javascript.info/fetch-crossorigin)
-* [`JS 3.33` L'API Fetch en JavaScript](Fetch API)
+* [`JS 3.33` L'API Fetch en JavaScript](https://javascript.info/fetch-api)
 * [`JS 3.34` XMLHttpRequest en JavaScript](https://javascript.info/xmlhttprequest)
 * [`JS 3.35` La reprise d'upload en JavaScript](https://javascript.info/resume-upload)
 * [`JS 3.36` L'interrogation longue en JavaScript](https://javascript.info/long-polling)
