@@ -14,7 +14,7 @@
 * Module 11 : [Introduction à la programmation](../general/introduction-programmation)
 * Module 12 : [JavaScript Débutant](../general/langages/javascript/debutant)
 * Module 13 : [JavaScript Itermédiaire](../general/langages/javascript/intermediaire)
-* Module 14 : [Package Managers](package-managers)
+* Module 14 : [Package Managers](../general/langages/javascript/package-managers)
 * Module 15 : [Build Tools](build-tools)
 * Module 16 : [JavaScript Avancé](../general/langages/javascript/avance)
 * Module 17 : [DOM](dom)
