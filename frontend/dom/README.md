@@ -25,3 +25,6 @@
 * [`17.23` Focusing : `focus`/`blur`](https://javascript.info/focus-blur)
 * [`17.24` Événements : changer, saisir, couper, copier, coller](https://javascript.info/events-change-input)
 * [`17.25` Formulaires : soumission d'événement et de méthode](https://javascript.info/forms-submit)
+* [`17.26` Les cycles de vie d'une page HTML](https://javascript.info/onload-ondomcontentloaded)
+* [`17.27` Méthodes de chargement des scripts : `async` et `defer`](https://javascript.info/script-async-defer)
+* [`17.28` Chargement des ressources : `onload` et `onerror`](https://javascript.info/onload-onerror)
