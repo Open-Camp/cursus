@@ -19,7 +19,7 @@
 * Module 16 : [JavaScript Avancé](../general/langages/javascript/avance)
 * Module 17 : [DOM](dom)
 * Module 18 : [API](../general/api)
-* Module 19 : [Frameworks JavaScript](javascript/frameworks-javascript)
+* Module 19 : [Frameworks JavaScript](../general/langages/javascript/frameworks-javascript)
 * Module 20 : [Frameworks CSS](css/frameworks-css)
 * Module 21 : [Testing](../general/testing)
 * Module 22 : [SSR](javascript/frameworks-javascript/ssr)
