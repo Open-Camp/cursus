@@ -22,7 +22,7 @@
 * Module 19 : [Frameworks JavaScript](../general/langages/javascript/frameworks-javascript)
 * Module 20 : [Frameworks CSS](css/frameworks-css)
 * Module 21 : [Testing](../general/testing)
-* Module 22 : [SSR](javascript/frameworks-javascript/ssr)
+* Module 22 : [SSR](../general/langages/javascript/frameworks-javascript/ssr)
 * Module 23 : [Typescript](../general/langages/javascript/typescript)
 * Module 24 : [Progressive Web Apps](pwa)
 
