@@ -2,3 +2,6 @@
 
 * [`TS 1.1` Introduction à Typescript](introduction-typescript.md)
 * [`TS 1.2` Installation d'un environnement Typescript](installation-typescript.md)
+* [`TS 1.3` Les types dans Typescript](types-typescript.md)
+* [`TS 1.4` Les annotations de types dans Typescript](annotations-typescript.md)
+* [`TS 1.5` Les inférences de types dans Typescript](inferences-typescript.md)
