@@ -15,6 +15,7 @@
 * [`IP 1.12` Les structures de contrôle](structures-controle.md)
 * [`IP 1.13` Les boucles](boucles.md)
 * [`IP 1.14` Les fonctions](fonctions.md)
+* [`IP 1.14` La portée](portee.md)
 * [`IP 1.15` Les tableaux](tableaux.md)
 * [`IP 1.16` Les objets](objets.md)
 * [`IP 1.17` Les évènements](evenements.md)
