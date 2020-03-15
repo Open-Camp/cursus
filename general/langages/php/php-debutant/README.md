@@ -13,4 +13,6 @@
 * [`PHP 1.11` Les opérateurs conditionnels en PHP](operateurs-conditionnels-php.md)
 * [`PHP 1.12` Les opérateurs logiques en PHP](operateurs-logiques-php.md)
 * [`PHP 1.13` Les tableaux en PHP](tableaux-php.md)
-* [`PHP 1.14` ]
+* [`PHP 1.14` Les boucles en PHP](boucles-php.md)
+* [`PHP 1.15` Le switch en PHP](switch-php.md)
+* [`PHP 1.16` Les fonctions en PHP](fonctions-php.md)
