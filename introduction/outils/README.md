@@ -5,6 +5,7 @@
 * [`0.2` La recherche](recherche.md)
 * [`0.3` L'éditeur de code](editeur-de-code.md)
 * [`0.4` Traduction](traduction.md)
+* [`0.5` La dactylographie](dactylographie.md)
 
 Dans cette section nous allons commencer notre parcours par préparer nos principaux outils de départ que sont le bon état d'esprit, le navigateur, l'éditeur de code, et la traduction.
 
