@@ -1,7 +1,7 @@
 # JavaScript Débutant
 
-* [`JS 1.1` Une introduction à JavaScript](https://javascript.info/intro)
-* [`JS 1.2` Les Manuels et spécifications JavaScript](https://javascript.info/manuals-specifications)
+* [`JS 1.1` Une introduction à JavaScript](https://fr.javascript.info/intro)
+* [`JS 1.2` Les Manuels et spécifications JavaScript](https://fr.javascript.info/manuals-specifications)
 * [`JS 1.3` La console du développeur](https://javascript.info/devtools)
 * [`JS 1.4` Hello World!](https://javascript.info/hello-world)
 * [`JS 1.5` La structure du code JavaScript](https://javascript.info/structure)
