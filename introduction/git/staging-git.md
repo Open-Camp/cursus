@@ -1,1 +1,1 @@
-# 3.3 Qu'est-ce que le staging de git ?
+# 3.4 Qu'est-ce que le staging de git ?
