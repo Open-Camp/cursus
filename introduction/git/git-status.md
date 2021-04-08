@@ -1,1 +1,1 @@
-# 3.7 `git status`
+# 3.6 `git status`
