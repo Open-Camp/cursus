@@ -1,0 +1,4 @@
+# Glossaire
+
+- Paramètres
+- Arguments

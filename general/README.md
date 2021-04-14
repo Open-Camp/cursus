@@ -1,5 +1,6 @@
 # Thèmes généraux aux parcours
 
+* [Glossaire](glossaire.md)
 * [Licences](licences)
 * [Design Patterns](design-patterns)
 * [Data Structures & Algorithms](dsa)
