@@ -1,9 +1,9 @@
 # DOM
 
-* [`17.1` L'environnement du navigateur et spécifications](https://javascript.info/browser-environment)
-* [`17.2` L'arbre DOM](https://javascript.info/dom-nodes)
-* [`17.3` Parcourir le DOM](https://javascript.info/dom-navigation)
-* [`17.4` Rechercher dans le DOM : `getElement*`, `querySelector*`](https://javascript.info/searching-elements-dom)
+* [`17.1` L'environnement du navigateur et spécifications](https://fr.javascript.info/browser-environment)
+* [`17.2` L'arbre DOM](https://fr.javascript.info/dom-nodes)
+* [`17.3` Parcourir le DOM](https://fr.javascript.info/dom-navigation)
+* [`17.4` Rechercher dans le DOM : `getElement*`, `querySelector*`](https://fr.javascript.info/searching-elements-dom)
 * [`17.5` Propriétés de nœuds : type, balise et contenu](https://javascript.info/basic-dom-node-properties)
 * [`17.6` Attributs et propriétés du DOM](https://javascript.info/dom-attributes-and-properties)
 * [`17.7` Modification du document](https://javascript.info/modifying-document)
