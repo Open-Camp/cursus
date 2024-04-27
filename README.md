@@ -20,7 +20,7 @@ Les technologies évoluent tellement vite et les parcours de formations tellemen
 
 Ce projet est la cristalisation de plusieurs années d'expérience dans le monde de la formation professionnelle du développement web, avec tout ce que cela implique en terme de réussites et d'échecs.
 
-Le cursus présenté ici est basé sur la [Developer Roadmap 2021](https://github.com/kamranahmedse/developer-roadmap) pilotée par la communauté qui totalise plus de 189k de stars sur Github, ce qui est assez solide pour qu'on puisse réfléchir à un parcours de formation qui repose sur cet outil et soit cohérent avec les besoins de l'industrie.
+Le cursus présenté ici est basé sur la [Developer Roadmap 2021](https://github.com/kamranahmedse/developer-roadmap) pilotée par la communauté qui totalise plus de 275k de stars sur Github, ce qui est assez solide pour qu'on puisse réfléchir à un parcours de formation qui repose sur cet outil et soit cohérent avec les besoins de l'industrie.
 
 Pour commencer, nous allons déjà nous attaquer au mythe du "développeur fullstack" qui, au regard des compétences requises pour chaque métier que sont le développeur frontend, le développeur backend, ainsi que le devops nous paraît extrêmement difficile à atteindre pour le commun des mortels.
 
